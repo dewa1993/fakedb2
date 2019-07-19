@@ -2,11 +2,11 @@
   "movementTypeMasterList": [
     {
       "id": 1,
-      "name": "In-Gate"
+      "name": "Inward"
     },
     {
       "id": 2,
-      "name": "Out-Gate"
+      "name": "Outward"
     }
   ],
   "goodsTypeMasterList": [
