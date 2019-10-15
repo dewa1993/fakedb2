@@ -1,5 +1,17 @@
 {
-  "configureDevice": {
+  "configureDeviceSuccess": {
+    "data": {
+      "success": true
+      },
+    "meta": {
+      "code": 200,
+      "errorType": null,
+      "errorMessage": null,
+      "debug": null,
+      "ts": 1570951790574
+      }
+    },
+  "configureDeviceFail": {
     "data": {
       "success": true
       },
