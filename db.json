@@ -10,5 +10,24 @@
       "debug": null,
       "ts": 1570951790574
       }
+    },
+  "login": {
+    "data": {
+      "tokenType": "Bearer",
+      "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxIiwiaWF0IjoxNTcwOTUzMTUwLCJleHAiOjE1NzE1NTc5NTB9.UmwG7M64RgMIh__Vy1rk1Gct4VAn2VG4FG9hE0J5E_6Lhx7vRosfYDxwm2jgFGb7kvmQgXyMH0T-c-vofFGfoA",
+      "requireNewPassword": false,
+      "tasks": [
+        "deposit",
+        "view_invoice",
+        "view_report"
+      ]
+    },
+    "meta": {
+      "code": 200,
+      "errorType": null,
+      "errorMessage": null,
+      "debug": null,
+      "ts": 1570953160850
     }
+  }
 }
